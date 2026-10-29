@@ -1,8 +1,8 @@
 # Fact Threader
 
-A transparent, opt-in Threads publisher for sourced criticism of U.S. Immigration and Customs Enforcement (ICE). People review an exact, finite library of posts, choose their own cadence, and explicitly approve each batch. The initial target is **100 independently sourced and reviewed facts**; additions arrive through pull requests.
+A Threads publisher for sourced criticism of U.S. Immigration and Customs Enforcement (ICE). People choose the exact posts and a schedule, then approve that batch. The library starts with **100 source-checked drafts from 39 primary-source URLs**. Additions come through pull requests.
 
-**Current state: disconnected preview.** Real OAuth and publishing are disabled. The launch corpus is pending source review. Synthetic demo posts are clearly labelled and never become eligible for publishing. This is original standalone code, not a copy of another application.
+**Current state: disconnected preview.** All 100 drafts are available to read with their evidence, dates and later corrective actions. They still need maintainer editorial review. Source checks do not grant publication consent. Real OAuth and publishing are disabled; the schedule demo uses clearly labelled sample text. See [the corpus review notes](content/research/README.md) for the five detention entries backed by official summaries and the limits of the research.
 
 [Open the public preview](https://fact-threader.pages.dev) · [Source and contributions](https://github.com/ashrocket/fact-threader)
 
@@ -22,7 +22,7 @@ Open the local URL shown by Wrangler. The demo works without credentials. For a 
 
 ## How it works
 
-- **Review:** each record contains a dated claim, primary source, evidence span and locator, publication/retrieval dates, claim classification, review state, and exact post text. Automated validation checks structure, duplication and length; humans verify truth and context.
+- **Review:** each record contains a dated claim, primary source, labelled evidence summary or quotation and locator, publication/retrieval dates, claim classification, review state, and exact post text. Automated validation checks structure, duplication and length; maintainers verify truth and context. Month-only source dates stay month-only.
 - **Approve:** choose 1–100 reviewed posts and a 1, 6, 12 or 24-hour interval. One hour is explicit opt-in. Every post includes `Scheduled post · ` and a source URL. Approval pins the exact text, record hashes, order, and cadence.
 - **Publish:** a Worker checks the service stop switch, consent, current source review, token expiry, and the quota returned by the official Threads API. It sends at most one due post per account per scheduler pass. The first post is one full interval after approval; missed runs do not create catch-up bursts. The queue ends when exhausted.
 - **Control:** pause stops future work. Disconnect deletes the active account, tokens, sessions, approvals, jobs and activity records. A request already in flight can still finish. Provider revocation is a separate step in Threads settings until a supported revocation endpoint is verified.
@@ -36,6 +36,7 @@ No global blast button, unsolicited replies, automated engagement, follower scra
 | `public/` | Accessible static site and synthetic queue demo |
 | `content/facts.json` | Source-controlled fact library |
 | `content/SCHEMA.md` | Submission record format |
+| `content/research/` | Original source-checked selection and research limitations |
 | `src/` | Cloudflare Worker, OAuth, consent, scheduler and encryption |
 | `migrations/` | D1 schema, default emergency stop enabled |
 | `tests/` | Security, consent, quota, content and scheduler checks |
@@ -49,11 +50,10 @@ The disconnected site can be deployed using existing Cloudflare Pages access:
 ```sh
 npm run check
 npm run scan:secrets
-npx wrangler pages project create fact-threader --production-branch main
 npm run deploy:preview
 ```
 
-The Pages preview is public and contains no secrets, account backend or publishing credentials. It is a manual Direct Upload deployment; GitHub PRs do not automatically deploy code or facts. The live Worker and D1 database require additional account permissions and the steps in [the launch guide](docs/LAUNCH.md). Do not deploy the placeholder D1 ID to production.
+These commands update the existing `fact-threader` Pages project. For a fork, create a separate project and change the deployment target first. The Pages preview is public and contains no secrets, account backend or publishing credentials. It uses manual Direct Upload; GitHub PRs do not automatically deploy code or facts. The live Worker and D1 database require additional account permissions and the steps in [the launch guide](docs/LAUNCH.md). Do not deploy the placeholder D1 ID to production.
 
 ## Contributing and corrections
 

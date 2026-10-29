@@ -2,7 +2,7 @@
 
 The published preview must remain disconnected until every item is complete. Owner authorization is needed for new permissions, credentials, provider grants, paid changes, or live publishing.
 
-1. Finish and independently review at least 100 distinct sourced fact records. Set `CORPUS_APPROVED=true` only after a real maintainer review. Do not change status merely to satisfy a counter.
+1. Complete maintainer review of the 100 source-checked drafts (or supported replacements). Review the [research limitations](../content/research/README.md), including the five detention records backed by official summaries, and recheck material later actions. Set `CORPUS_APPROVED=true` only after a real maintainer review. Do not change status merely to satisfy a counter.
 2. Verify the current Meta rules and required public app review/advanced access for `threads_basic` and `threads_content_publish`, any required business verification, automated/repetitive posting rules, and a tested deletion/deauthorization path. Record the outcome. Only then set `APP_REVIEW_APPROVED=true` and `PLATFORM_POLICY_APPROVED=true`.
 3. Establish a private support/deletion channel and name the operator, retention terms, Cloudflare backup window, and provider-required callbacks in the privacy notice. Current placeholder policy explicitly blocks live launch until these are ready.
 4. With explicit authorization, create or select the personal Meta Threads app and a new dedicated Cloudflare D1 database. The existing account's Pages permission does not grant Worker/D1 deployment. Do not change unrelated Workers, domains, applications, or accounts.

@@ -1,1 +1,3478 @@
-[]
+[
+  {
+    "id": "ice-enf-001",
+    "shortTitle": "Enforcement reached potential citizens.",
+    "claim": "GAO found ICE data recorded 674 arrests, 121 detentions and 70 removals of potential U.S. citizens in FY2015–March 2020. “Potential” is crucial: these are not 70 confirmed citizen deportations.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2015–March 2020; policy findings in 2021",
+    "contextNote": "GAO marks both recommendations implemented; potential citizenship is not confirmed citizenship.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-487",
+        "title": "GAO-21-487: Citizenship investigations",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-07-20",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Available records; citizenship uncertainty expressly retained.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found ICE data recorded 674 arrests, 121 detentions and 70 removals of potential U.S. citizens in FY2015–March 2020. “Potential” is crucial: these are not 70 confirmed citizen deportations. https://www.gao.gov/products/gao-21-487",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-002",
+    "shortTitle": "Potential citizens received detainers.",
+    "claim": "GAO reported ICE issued detainers for at least 895 potential U.S. citizens in FY2015–March 2020; about 74% were canceled.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2015–March 2020; policy findings in 2021",
+    "contextNote": "GAO marks both recommendations implemented; potential citizenship is not confirmed citizenship.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-487",
+        "title": "GAO-21-487: Citizenship investigations",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-07-20",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights report detainer totals and cancellations.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported ICE issued detainers for at least 895 potential U.S. citizens in FY2015–March 2020; about 74% were canceled. https://www.gao.gov/products/gao-21-487",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-003",
+    "shortTitle": "Citizenship training conflicted with policy.",
+    "claim": "In 2021, GAO found ICE citizenship-investigation training conflicted with its supervisor-consultation policy. ICE revised the training in 2022.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2015–March 2020; policy findings in 2021",
+    "contextNote": "GAO marks both recommendations implemented; potential citizenship is not confirmed citizenship.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-487",
+        "title": "GAO-21-487: Citizenship investigations",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-07-20",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Recommendation 1 and closure narrative.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2021, GAO found ICE citizenship-investigation training conflicted with its supervisor-consultation policy. ICE revised the training in 2022. https://www.gao.gov/products/gao-21-487",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-004",
+    "shortTitle": "Citizenship data updating was inadequate.",
+    "claim": "GAO found in 2021 that ICE did not require citizenship-field updates after evidence of possible U.S. citizenship emerged. GAO records a corrective clarification in 2025.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2015–March 2020; policy findings in 2021",
+    "contextNote": "GAO marks both recommendations implemented; potential citizenship is not confirmed citizenship.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-487",
+        "title": "GAO-21-487: Citizenship investigations",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-07-20",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Recommendation 2 and closure narrative.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2021 that ICE did not require citizenship-field updates after evidence of possible U.S. citizenship emerged. GAO records a corrective clarification in 2025. https://www.gao.gov/products/gao-21-487",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-005",
+    "shortTitle": "Veteran safeguards were inconsistently followed.",
+    "claim": "GAO found ICE did not consistently follow its own policies for veterans placed in removal proceedings in FY2013–2018. Some removed veterans may have missed required review. GAO later closed its recommendations as implemented.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2013–2018 and 2019 findings",
+    "contextNote": "All three recommendations subsequently closed as implemented; not current-condition claims.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-19-416",
+        "title": "GAO-19-416: Veterans",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2019-06-06",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights and recommendation 1.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found ICE did not consistently follow its own policies for veterans placed in removal proceedings in FY2013–2018. Some removed veterans may have missed required review. GAO later closed its recommendations as implemented. https://www.gao.gov/products/gao-19-416",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-006",
+    "shortTitle": "Veteran identification policy was missing.",
+    "claim": "In 2019, GAO found ICE lacked a policy to identify and document all military veterans it encountered. GAO later credited a May 2022 directive.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2013–2018 and 2019 findings",
+    "contextNote": "All three recommendations subsequently closed as implemented; not current-condition claims.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-19-416",
+        "title": "GAO-19-416: Veterans",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2019-06-06",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Recommendation 2 and subsequent correction.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2019, GAO found ICE lacked a policy to identify and document all military veterans it encountered. GAO later credited a May 2022 directive. https://www.gao.gov/products/gao-19-416",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-007",
+    "shortTitle": "Veteran removal counts were incomplete.",
+    "claim": "GAO found in 2019 that incomplete ICE electronic records prevented the agency from knowing how many veterans had entered removal proceedings or been removed. Data-system fixes followed.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2013–2018 and 2019 findings",
+    "contextNote": "All three recommendations subsequently closed as implemented; not current-condition claims.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-19-416",
+        "title": "GAO-19-416: Veterans",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2019-06-06",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Recommendation 3 and closure narrative.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2019 that incomplete ICE electronic records prevented the agency from knowing how many veterans had entered removal proceedings or been removed. Data-system fixes followed. https://www.gao.gov/products/gao-19-416",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-008",
+    "shortTitle": "Parent data were not readily available.",
+    "claim": "In 2019, GAO found ICE lacked readily available data on detained parents or guardians of U.S.-citizen and permanent-resident minors, despite ICE policy. GAO recorded a fix in 2025.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "CY2015–2018; 2019 policy/data findings",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-20-36",
+        "title": "GAO-20-36: Selected populations",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2019-12-05",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights; recommendation closure.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2019, GAO found ICE lacked readily available data on detained parents or guardians of U.S.-citizen and permanent-resident minors, despite ICE policy. GAO recorded a fix in 2025. https://www.gao.gov/products/gao-20-36",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-009",
+    "shortTitle": "Most detentions were classified non-criminal.",
+    "claim": "GAO’s review of ICE data for 2015–2018 found that non-criminals made up the majority of detentions. Immigration detention is not synonymous with criminal punishment.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "CY2015–2018; 2019 policy/data findings",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-20-36",
+        "title": "GAO-20-36: Selected populations",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2019-12-05",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights distinguish detention from arrests and removals.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO’s review of ICE data for 2015–2018 found that non-criminals made up the majority of detentions. Immigration detention is not synonymous with criminal punishment. https://www.gao.gov/products/gao-20-36",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-010",
+    "shortTitle": "ICE used manual separation tracking.",
+    "claim": "In 2020, GAO found ICE relied on manual tracking of family separations in its custody rather than systematically recording them in its data system. GAO later credited an October 2020 tracking-system update.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2020 findings concerning ICE family-unit processing",
+    "contextNote": "GAO recommendation7 closed implemented: ICE deployed a family tracking module in October2020.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-20-245",
+        "title": "GAO-20-245: Family separation tracking",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2020-02-19",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights, ICE-specific findings.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2020, GAO found ICE relied on manual tracking of family separations in its custody rather than systematically recording them in its data system. GAO later credited an October 2020 tracking-system update. https://www.gao.gov/products/gao-20-245",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-011",
+    "shortTitle": "ICE lacked assurance parents could arrange care.",
+    "claim": "GAO warned in 2020 that ICE’s separation-tracking gap left it without reasonable assurance that separated parents facing removal could arrange for their children, including taking them along. GAO later credited an October 2020 tracking-system update.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2020 findings concerning ICE family-unit processing",
+    "contextNote": "GAO recommendation7 closed implemented: ICE deployed a family tracking module in October2020.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-20-245",
+        "title": "GAO-20-245: Family separation tracking",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2020-02-19",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights, consequence of tracking gap.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO warned in 2020 that ICE’s separation-tracking gap left it without reasonable assurance that separated parents facing removal could arrange for their children, including taking them along. GAO later credited an October 2020 tracking-system update. https://www.gao.gov/products/gao-20-245",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-012",
+    "shortTitle": "Removal preferences went undocumented.",
+    "claim": "DHS OIG found ICE removed at least 348 separated parents beginning in July 2017 without documenting that they wanted their children left in the U.S. The report covers the period before July 12, 2018.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "July 2017–before July 12, 2018",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo155925/pdf/GOVPUB-HS-PURL-gpo155925.pdf",
+        "title": "OIG-21-36: Separated parents",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-05-18",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG21-36 PDF p3 highlights",
+        "evidence": "Highlights, PDF page 3.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG found ICE removed at least 348 separated parents beginning in July 2017 without documenting that they wanted their children left in the U.S. The report covers the period before July 12, 2018. https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo155925/pdf/GOVPUB-HS-PURL-gpo155925.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-013",
+    "shortTitle": "Some parental reunification wishes were disregarded.",
+    "claim": "A 2021 DHS OIG review found ICE removed some separated parents without their children despite evidence they wanted the children to accompany them. The findings concern 2017–2018 removals.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "July 2017–before July 12, 2018",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo155925/pdf/GOVPUB-HS-PURL-gpo155925.pdf",
+        "title": "OIG-21-36: Separated parents",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-05-18",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG21-36 PDF p3 highlights",
+        "evidence": "Highlights, PDF page 3.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "A 2021 DHS OIG review found ICE removed some separated parents without their children despite evidence they wanted the children to accompany them. The findings concern 2017–2018 removals. https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo155925/pdf/GOVPUB-HS-PURL-gpo155925.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-014",
+    "shortTitle": "Purported parental waivers were flawed.",
+    "claim": "DHS OIG’s 2021 review found flawed ICE records of parental reunification waivers: some omitted what parents were told or whether reunification was offered before 2017–2018 removals.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "July 2017–before July 12, 2018",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo155925/pdf/GOVPUB-HS-PURL-gpo155925.pdf",
+        "title": "OIG-21-36: Separated parents",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-05-18",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG21-36 PDF p3 highlights",
+        "evidence": "Highlights, PDF page 3.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG’s 2021 review found flawed ICE records of parental reunification waivers: some omitted what parents were told or whether reunification was offered before 2017–2018 removals. https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo155925/pdf/GOVPUB-HS-PURL-gpo155925.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-015",
+    "shortTitle": "ICE force reports lacked basic information.",
+    "claim": "GAO’s 2021 review of federal responses to 2020 demonstrations included ICE among agencies whose less-lethal-force reports lacked basic information needed to assess policy compliance.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Selected federal deployments, May–September 2020",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-22-104470",
+        "title": "GAO-22-104470: Less-lethal force",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-12-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights identify ICE among six agencies.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO’s 2021 review of federal responses to 2020 demonstrations included ICE among agencies whose less-lethal-force reports lacked basic information needed to assess policy compliance. https://www.gao.gov/products/gao-22-104470",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-016",
+    "shortTitle": "ICE did not document compliance determinations.",
+    "claim": "GAO found ICE had not documented whether its less-lethal force during selected 2020 deployments complied with agency policy. GAO later credited revised procedures.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Selected federal deployments, May–September 2020",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-22-104470",
+        "title": "GAO-22-104470: Less-lethal force",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-12-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Highlights and recommendation 9.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found ICE had not documented whether its less-lethal force during selected 2020 deployments complied with agency policy. GAO later credited revised procedures. https://www.gao.gov/products/gao-22-104470",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-017",
+    "shortTitle": "ICE camera planning was outdated.",
+    "claim": "GAO reported in September 2026 that ICE had not updated its body-camera program plan since 2024 despite major deployment changes and a 2025 pause.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2026 report, publicly released October 14, 2026",
+    "contextNote": "Dated 2026 report findings; does not establish misconduct in any individual encounter.",
+    "sources": [
+      {
+        "url": "https://files.gao.gov/reports/GAO-26-108157/index.html",
+        "title": "GAO-26-108157: Body cameras",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-09-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO26-108157 full HTML highlights; agency response for019",
+        "evidence": "Highlights, planning.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported in September 2026 that ICE had not updated its body-camera program plan since 2024 despite major deployment changes and a 2025 pause. https://files.gao.gov/reports/GAO-26-108157/index.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-018",
+    "shortTitle": "Camera outcome measures were missing.",
+    "claim": "GAO found in 2026 that ICE had not implemented results-oriented goals and measures to assess whether body cameras delivered intended benefits such as accountability and public trust.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2026 report, publicly released October 14, 2026",
+    "contextNote": "Dated 2026 report findings; does not establish misconduct in any individual encounter.",
+    "sources": [
+      {
+        "url": "https://files.gao.gov/reports/GAO-26-108157/index.html",
+        "title": "GAO-26-108157: Body cameras",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-09-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO26-108157 full HTML highlights; agency response for019",
+        "evidence": "Highlights, performance measurement.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2026 that ICE had not implemented results-oriented goals and measures to assess whether body cameras delivered intended benefits such as accountability and public trust. https://files.gao.gov/reports/GAO-26-108157/index.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-019",
+    "shortTitle": "Camera activation controls needed strengthening.",
+    "claim": "In 2026, GAO recommended stronger ICE camera-activation controls, such as automatic activation. DHS rejected automated activation; GAO maintained additional controls were needed.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2026 report, publicly released October 14, 2026",
+    "contextNote": "Dated 2026 report findings; does not establish misconduct in any individual encounter.",
+    "sources": [
+      {
+        "url": "https://files.gao.gov/reports/GAO-26-108157/index.html",
+        "title": "GAO-26-108157: Body cameras",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-09-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO26-108157 full HTML highlights; agency response for019",
+        "evidence": "Highlights, recommendations and response.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2026, GAO recommended stronger ICE camera-activation controls, such as automatic activation. DHS rejected automated activation; GAO maintained additional controls were needed. https://files.gao.gov/reports/GAO-26-108157/index.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-020",
+    "shortTitle": "Local camera guidance was often missing.",
+    "claim": "GAO reported in 2026 that most ICE and CBP offices lacked operational guidance on camera use for their particular circumstances, increasing the risk of noncompliance.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2026 report, publicly released October 14, 2026",
+    "contextNote": "Dated 2026 report findings; does not establish misconduct in any individual encounter.",
+    "sources": [
+      {
+        "url": "https://files.gao.gov/reports/GAO-26-108157/index.html",
+        "title": "GAO-26-108157: Body cameras",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-09-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO26-108157 full HTML highlights; agency response for019",
+        "evidence": "Highlights expressly concern both agencies.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported in 2026 that most ICE and CBP offices lacked operational guidance on camera use for their particular circumstances, increasing the risk of noncompliance. https://files.gao.gov/reports/GAO-26-108157/index.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-021",
+    "shortTitle": "Minor offenses became immigration cases.",
+    "claim": "GAO reported in 2009 that 4 of 29 reviewed 287(g) participants used delegated immigration authority for minor offenses such as speeding, contrary to ICE’s stated serious-crime objective.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2009 report reviewing 29 program participants",
+    "contextNote": "Historical findings; GAO product page subsequently marks recommendations implemented.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/assets/a285588.html",
+        "title": "GAO-09-109: Delegated enforcement",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2009-01-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO09-109 accessible full text highlights; product page closures",
+        "evidence": "Highlights, program purpose.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported in 2009 that 4 of 29 reviewed 287(g) participants used delegated immigration authority for minor offenses such as speeding, contrary to ICE’s stated serious-crime objective. https://www.gao.gov/assets/a285588.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-022",
+    "shortTitle": "Supervisory responsibilities were unclear.",
+    "claim": "In 2009, GAO found ICE had not specified the nature and extent of supervision of 287(g) partners, producing widely varying understandings of oversight responsibilities.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2009 report reviewing 29 program participants",
+    "contextNote": "Historical findings; GAO product page subsequently marks recommendations implemented.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/assets/a285588.html",
+        "title": "GAO-09-109: Delegated enforcement",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2009-01-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO09-109 accessible full text highlights; product page closures",
+        "evidence": "Highlights, supervision.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2009, GAO found ICE had not specified the nature and extent of supervision of 287(g) partners, producing widely varying understandings of oversight responsibilities. https://www.gao.gov/assets/a285588.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-023",
+    "shortTitle": "Partner reporting requirements were incomplete.",
+    "claim": "GAO found in 2009 that 20 of 29 reviewed ICE 287(g) agreements failed to define what data partners should track or how to collect and report it.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2009 report reviewing 29 program participants",
+    "contextNote": "Historical findings; GAO product page subsequently marks recommendations implemented.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/assets/a285588.html",
+        "title": "GAO-09-109: Delegated enforcement",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2009-01-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO09-109 accessible full text highlights; product page closures",
+        "evidence": "Highlights, data reporting.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2009 that 20 of 29 reviewed ICE 287(g) agreements failed to define what data partners should track or how to collect and report it. https://www.gao.gov/assets/a285588.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-024",
+    "shortTitle": "Humanitarian guidance needed updating.",
+    "claim": "GAO’s 2007 review found ICE had not supplied updated guidance on humanitarian factors in apprehension, charging and detention decisions. ICE issued corrective memoranda in FY2009–2010.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2007 report and later closure record",
+    "contextNote": "Recommendations closed as implemented; third required evaluation of options, not creation of a tracking system.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-08-67",
+        "title": "GAO-08-67: Enforcement discretion",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2007-10-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Recommendation 1 closure record.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO’s 2007 review found ICE had not supplied updated guidance on humanitarian factors in apprehension, charging and detention decisions. ICE issued corrective memoranda in FY2009–2010. https://www.gao.gov/products/gao-08-67",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-025",
+    "shortTitle": "Legal updates were inconsistent.",
+    "claim": "GAO’s 2007 report identified inadequate guidance and inconsistent legal updates for ICE officers making enforcement decisions. ICE later introduced training and monthly updates.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2007 report and later closure record",
+    "contextNote": "Recommendations closed as implemented; third required evaluation of options, not creation of a tracking system.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-08-67",
+        "title": "GAO-08-67: Enforcement discretion",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2007-10-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Recommendation 2 closure record.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO’s 2007 report identified inadequate guidance and inconsistent legal updates for ICE officers making enforcement decisions. ICE later introduced training and monthly updates. https://www.gao.gov/products/gao-08-67",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-026",
+    "shortTitle": "Discretion trends could not be analyzed.",
+    "claim": "GAO’s 2007 review found ICE lacked a means to analyze discretion across field offices. In 2011 ICE said tracking every decision point was infeasible and relied on revised guidance.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2007 report and later closure record",
+    "contextNote": "Recommendations closed as implemented; third required evaluation of options, not creation of a tracking system.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-08-67",
+        "title": "GAO-08-67: Enforcement discretion",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2007-10-15",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO highlights and recommendation closures",
+        "evidence": "Recommendation 3 closure record.",
+        "evidenceKind": "summary",
+        "sourceAccess": "opened_primary_summary_and_recommendations",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO’s 2007 review found ICE lacked a means to analyze discretion across field offices. In 2011 ICE said tracking every decision point was infeasible and relied on revised guidance. https://www.gao.gov/products/gao-08-67",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-027",
+    "shortTitle": "Custody-review due dates were inadequately tracked.",
+    "claim": "In 2004, GAO found ICE lacked complete, accurate, accessible information on when post-removal-order custody reviews were due, undermining assurance of timely review. GAO credited a 2008 system fix.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2004 findings on post-order custody reviews",
+    "contextNote": "Historical finding; GAO product page credits 2008 EARM system changes.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/assets/a242499.html",
+        "title": "GAO-04-434: Custody reviews",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2004-05-27",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO04-434 accessible full text highlights; product page closure",
+        "evidence": "Highlights, review timeliness.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2004, GAO found ICE lacked complete, accurate, accessible information on when post-removal-order custody reviews were due, undermining assurance of timely review. GAO credited a 2008 system fix. https://www.gao.gov/assets/a242499.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-028",
+    "shortTitle": "Custody-review outcomes could not be counted.",
+    "claim": "GAO found in 2004 that ICE could not record how many required post-order custody reviews occurred or their outcomes, preventing managers from gauging overall regulatory compliance. GAO credited a 2008 system fix.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2004 findings on post-order custody reviews",
+    "contextNote": "Historical finding; GAO product page credits 2008 EARM system changes.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/assets/a242499.html",
+        "title": "GAO-04-434: Custody reviews",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2004-05-27",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO04-434 accessible full text highlights; product page closure",
+        "evidence": "Highlights, review outcome data.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2004 that ICE could not record how many required post-order custody reviews occurred or their outcomes, preventing managers from gauging overall regulatory compliance. GAO credited a 2008 system fix. https://www.gao.gov/assets/a242499.html",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-029",
+    "shortTitle": "Civil-liberties data recommendation was rejected.",
+    "claim": "DHS OIG reported in 2010 that ICE rejected a recommendation for 287(g) data standards covering public-contact circumstances, race and ethnicity, and case outcomes to monitor civil-liberties impacts.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2010 report",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo13344/pdf/GOVPUB-HS-PURL-gpo13344.pdf",
+        "title": "OIG-10-124: Delegated enforcement safeguards",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2010-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG10-124 printed p55 Appendix C recommendation18",
+        "evidence": "Appendix C, recommendation 18.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG reported in 2010 that ICE rejected a recommendation for 287(g) data standards covering public-contact circumstances, race and ethnicity, and case outcomes to monitor civil-liberties impacts. https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo13344/pdf/GOVPUB-HS-PURL-gpo13344.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-enf-030",
+    "shortTitle": "Required training modules were inconsistently delivered.",
+    "claim": "DHS OIG found in 2010 that ICE instructors did not consistently deliver 287(g) training on agreements, public outreach and complaints, even though those topics appeared in the curriculum.",
+    "asOf": "2026-10-29",
+    "category": "Enforcement",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2010 report",
+    "contextNote": "Historical finding; not a claim that the deficiency persists today.",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo13344/pdf/GOVPUB-HS-PURL-gpo13344.pdf",
+        "title": "OIG-10-124: Delegated enforcement safeguards",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2010-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG10-124 printed p26 and p56 recommendation20",
+        "evidence": "Printed page 26; Appendix C recommendation 20.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_report",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG found in 2010 that ICE instructors did not consistently deliver 287(g) training on agreements, public outreach and complaints, even though those topics appeared in the curriculum. https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo13344/pdf/GOVPUB-HS-PURL-gpo13344.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Independently checked against opened primary source; dated historical claim, not assertion of current practice.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-001",
+    "shortTitle": "ICE detention reporting excluded tens of thousands.",
+    "claim": "GAO found in 2024 that ICE’s detention reporting omitted tens of thousands who entered through certain temporary facilities before transfer to detention facilities.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2019–2022 data; July 2024 findings",
+    "contextNote": "GAO highlights support omitted temporary-origin detention totals; recommendations remain open.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-24-106233",
+        "title": "Immigration Enforcement: Arrests, Removals, and Detentions Varied Over Time and ICE Should Strengthen Data Reporting",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2024-07-23",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-24-106233 highlights and recommendations1–2",
+        "evidence": "Highlights: initial temporary bookings excluded from totals.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2024 that ICE’s detention reporting omitted tens of thousands who entered through certain temporary facilities before transfer to detention facilities. https://www.gao.gov/products/gao-24-106233",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO highlights support omitted temporary-origin detention totals; recommendations remain open.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-002",
+    "shortTitle": "ICE inadequately explained its detention-count methodology.",
+    "claim": "In July 2024, GAO found ICE did not fully explain its detention-count methodology. DHS initially disagreed; ICE accepted the methodology recommendation in February 2025.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "2019–2022 data; July 2024 findings",
+    "contextNote": "Historical finding supported, but recommendation 2 status says ICE reversed its disagreement in February 2025. Add that material context.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-24-106233",
+        "title": "Immigration Enforcement: Arrests, Removals, and Detentions Varied Over Time and ICE Should Strengthen Data Reporting",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2024-07-23",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-24-106233 highlights and recommendations1–2",
+        "evidence": "Highlights and recommendations describe methodology and DHS disagreement.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In July 2024, GAO found ICE did not fully explain its detention-count methodology. DHS initially disagreed; ICE accepted the methodology recommendation in February 2025. https://www.gao.gov/products/gao-24-106233",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Historical finding supported, but recommendation 2 status says ICE reversed its disagreement in February 2025. Add that material context. Applied reviewed replacement.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-003",
+    "shortTitle": "287(g) lacked comprehensive performance goals and measures.",
+    "claim": "GAO reported in January 2021 that ICE lacked goals and measures covering all 287(g) activities, limiting its ability to determine whether the program achieved intended results.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2021 findings; FY2015–2020 oversight review",
+    "contextNote": "Highlights support goals/measures finding; recommendation 1 remains open as of June 2026.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-186",
+        "title": "Immigration Enforcement: ICE Can Further Enhance Its Planning and Oversight of State and Local Agreements",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-01-27",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-21-186 highlights and recommendations1–3",
+        "evidence": "Highlights: missing comprehensive performance framework.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported in January 2021 that ICE lacked goals and measures covering all 287(g) activities, limiting its ability to determine whether the program achieved intended results. https://www.gao.gov/products/gao-21-186",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support goals/measures finding; recommendation 1 remains open as of June 2026.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-004",
+    "shortTitle": "ICE lacked oversight for its Warrant Service Officer model.",
+    "claim": "GAO found in 2021 that ICE lacked oversight mechanisms for 287(g) Warrant Service Officer participants. ICE issued oversight guidance in September 2023; GAO closed the recommendation as implemented.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2021 findings; FY2015–2020 oversight review",
+    "contextNote": "Historical WSO finding supported; recommendation 3 now closed implemented after September 2023 oversight guidance. Add correction context.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-186",
+        "title": "Immigration Enforcement: ICE Can Further Enhance Its Planning and Oversight of State and Local Agreements",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-01-27",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-21-186 highlights and recommendations1–3",
+        "evidence": "Highlights: WSO oversight mechanisms absent.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2021 that ICE lacked oversight mechanisms for 287(g) Warrant Service Officer participants. ICE issued oversight guidance in September 2023; GAO closed the recommendation as implemented. https://www.gao.gov/products/gao-21-186",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Historical WSO finding supported; recommendation 3 now closed implemented after September 2023 oversight guidance. Add correction context. Applied reviewed replacement.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-005",
+    "shortTitle": "287(g) recruitment lacked a resource-optimization assessment.",
+    "claim": "In 2021, GAO found ICE had not assessed which mix of 287(g) participants would best address resource limits—even though the models required different oversight resources.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2021 findings; FY2015–2020 oversight review",
+    "contextNote": "Highlights support participant mix/resource finding; recommendation 2 remains open.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-186",
+        "title": "Immigration Enforcement: ICE Can Further Enhance Its Planning and Oversight of State and Local Agreements",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-01-27",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-21-186 highlights and recommendations1–3",
+        "evidence": "Highlights: composition and resource assessment missing.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2021, GAO found ICE had not assessed which mix of 287(g) participants would best address resource limits—even though the models required different oversight resources. https://www.gao.gov/products/gao-21-186",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support participant mix/resource finding; recommendation 2 remains open.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-006",
+    "shortTitle": "ICE incurred unrecoverable costs on warehouses slated for sale.",
+    "claim": "GAO reported in September 2026 that ICE planned to sell seven detention warehouses after spending over $20 million on nonrecoverable costs such as security and zoning assessments.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2025–July 2026 expansion review",
+    "contextNote": "Highlights specify seven warehouses and over $20 million nonrecoverable costs including zoning/security.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-26-108663",
+        "title": "Immigration Detention: Urgent Planning Needed to Avoid Further Waste of Taxpayer Dollars",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-09-24",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-26-108663 highlights",
+        "evidence": "Highlights: seven warehouses; unrecoverable expenses.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported in September 2026 that ICE planned to sell seven detention warehouses after spending over $20 million on nonrecoverable costs such as security and zoning assessments. https://www.gao.gov/products/gao-26-108663",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights specify seven warehouses and over $20 million nonrecoverable costs including zoning/security.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-007",
+    "shortTitle": "Detention expansion lacked a comprehensive strategic plan.",
+    "claim": "GAO’s September 2026 review found ICE expanded detention without a comprehensive strategic plan or consistent goals for the size and characteristics of its detention space.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2025–July 2026 expansion review",
+    "contextNote": "Highlights support absence of comprehensive strategy/consistent goals. DHS agrees; plan expected August 2027.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-26-108663",
+        "title": "Immigration Detention: Urgent Planning Needed to Avoid Further Waste of Taxpayer Dollars",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-09-24",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-26-108663 highlights",
+        "evidence": "Highlights: strategic planning gaps.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO’s September 2026 review found ICE expanded detention without a comprehensive strategic plan or consistent goals for the size and characteristics of its detention space. https://www.gao.gov/products/gao-26-108663",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support absence of comprehensive strategy/consistent goals. DHS agrees; plan expected August 2027.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-008",
+    "shortTitle": "ICE failed to assess high-cost facilities against cheaper options.",
+    "claim": "In September 2026, GAO found ICE had not assessed the risks and benefits of high-operating-cost facilities against cheaper existing detention options.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2025–July 2026 expansion review",
+    "contextNote": "Highlights explicitly support comparison gap for higher-cost facilities.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-26-108663",
+        "title": "Immigration Detention: Urgent Planning Needed to Avoid Further Waste of Taxpayer Dollars",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-09-24",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-26-108663 highlights",
+        "evidence": "Highlights: comparative cost assessment absent.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In September 2026, GAO found ICE had not assessed the risks and benefits of high-operating-cost facilities against cheaper existing detention options. https://www.gao.gov/products/gao-26-108663",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights explicitly support comparison gap for higher-cost facilities.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-009",
+    "shortTitle": "Camp East Montana required payment for unused meal capacity.",
+    "claim": "GAO reported in June 2026 that Camp East Montana’s contract required full meals and service payments for 5,000 people even when occupancy was much lower, wasting millions.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Camp East Montana acquisition and operations through spring 2026",
+    "contextNote": "Fast Facts support 5,000-person full-payment requirement and millions wasted. Original award administered by Army; post does not incorrectly attribute award to ICE.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-26-108886",
+        "title": "Immigration Detention: Waste and Performance Issues at Camp East Montana Provide Valuable Lessons for Future Facilities",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-06-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-26-108886 highlights",
+        "evidence": "Highlights: payment terms lacked occupancy flexibility.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported in June 2026 that Camp East Montana’s contract required full meals and service payments for 5,000 people even when occupancy was much lower, wasting millions. https://www.gao.gov/products/gao-26-108886",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Fast Facts support 5,000-person full-payment requirement and millions wasted. Original award administered by Army; post does not incorrectly attribute award to ICE.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-010",
+    "shortTitle": "ICE’s replacement Camp East Montana contract retained avoidable costs.",
+    "claim": "GAO found that after replacing Camp East Montana’s contractor in April 2026, ICE had not yet added cost-saving provisions and continued paying for unneeded meals.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Camp East Montana acquisition and operations through spring 2026",
+    "contextNote": "Highlights confirm April 2026 replacement contract lacked savings measures; DHS says tiered pricing planned by end 2026, not completed.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-26-108886",
+        "title": "Immigration Detention: Waste and Performance Issues at Camp East Montana Provide Valuable Lessons for Future Facilities",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-06-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-26-108886 highlights",
+        "evidence": "Highlights: replacement contract lacked savings measures.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found that after replacing Camp East Montana’s contractor in April 2026, ICE had not yet added cost-saving provisions and continued paying for unneeded meals. https://www.gao.gov/products/gao-26-108886",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights confirm April 2026 replacement contract lacked savings measures; DHS says tiered pricing planned by end 2026, not completed.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-011",
+    "shortTitle": "ICE skipped a required pre-occupancy inspection.",
+    "claim": "GAO reported in June 2026 that ICE failed to inspect Camp East Montana before housing people there, contrary to ICE policy.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Camp East Montana acquisition and operations through spring 2026",
+    "contextNote": "Highlights explicitly identify absent required pre-occupancy inspection by ICE.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-26-108886",
+        "title": "Immigration Detention: Waste and Performance Issues at Camp East Montana Provide Valuable Lessons for Future Facilities",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2026-06-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-26-108886 highlights",
+        "evidence": "Highlights: pre-occupancy inspection not performed.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported in June 2026 that ICE failed to inspect Camp East Montana before housing people there, contrary to ICE policy. https://www.gao.gov/products/gao-26-108886",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights explicitly identify absent required pre-occupancy inspection by ICE.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-012",
+    "shortTitle": "ICE Air lacked complete and accurate operational data.",
+    "claim": "DHS OIG’s 2015 audit found ICE Air lacked complete, accurate data for operational decisions, including route details and reasons people missed flights.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "October 2010–March 2014 operations; May 2014 staffing transition; April 2015 audit",
+    "contextNote": "OIG full PDF printed page 2 supports missing route/missed-flight data.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG_15-57_Apr15.pdf",
+        "title": "ICE Air Transportation of Detainees Could Be More Effective",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2015-04-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-15-57 printed pp2,5,10",
+        "evidence": "Report pages 2–4: incomplete and inconsistent flight data.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_full_pdf",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG’s 2015 audit found ICE Air lacked complete, accurate data for operational decisions, including route details and reasons people missed flights. https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG_15-57_Apr15.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "OIG full PDF printed page 2 supports missing route/missed-flight data.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-013",
+    "shortTitle": "ICE Air’s management transition lacked adequate staffing planning.",
+    "claim": "DHS OIG found ICE Air’s May 2014 shift from contractor to government management lacked adequate planning; only 13 federal staff were present when 37 contractors departed.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "October 2010–March 2014 operations; May 2014 staffing transition; April 2015 audit",
+    "contextNote": "OIG full PDF printed page 5 supports transition date, 37 contractors, 13 federal employees.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG_15-57_Apr15.pdf",
+        "title": "ICE Air Transportation of Detainees Could Be More Effective",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2015-04-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-15-57 printed pp2,5,10",
+        "evidence": "Report page 5: management transition and staffing shortfall.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_full_pdf",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG found ICE Air’s May 2014 shift from contractor to government management lacked adequate planning; only 13 federal staff were present when 37 contractors departed. https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG_15-57_Apr15.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "OIG full PDF printed page 5 supports transition date, 37 contractors, 13 federal employees.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-014",
+    "shortTitle": "ICE Air often failed to record why passengers missed flights.",
+    "claim": "A 2015 DHS OIG audit found 69% of scheduled detainees who missed ICE Air flights had no specific reason recorded—only a no-show label or blank field.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "October 2010–March 2014 operations; May 2014 staffing transition; April 2015 audit",
+    "contextNote": "OIG full PDF printed page 10 supports 69% missing specific reason among scheduled passengers who did not travel.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG_15-57_Apr15.pdf",
+        "title": "ICE Air Transportation of Detainees Could Be More Effective",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2015-04-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-15-57 printed pp2,5,10",
+        "evidence": "Report page 10: missing reasons prevented diagnosis of problems.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_full_pdf",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "A 2015 DHS OIG audit found 69% of scheduled detainees who missed ICE Air flights had no specific reason recorded—only a no-show label or blank field. https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG_15-57_Apr15.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "OIG full PDF printed page 10 supports 69% missing specific reason among scheduled passengers who did not travel.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-015",
+    "shortTitle": "ATD performance assessment omitted core activities and outcomes.",
+    "claim": "GAO found in June 2022 that ICE did not assess all core Alternatives to Detention activities and outcomes, including community-service referrals.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "June 2022 findings; contractor data November 2014–2020",
+    "contextNote": "GAO highlights support core activities including service referrals; relevant recommendation 3 open.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-22-104529",
+        "title": "Alternatives to Detention: ICE Needs to Better Assess Program Performance and Improve Contract Oversight",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2022-06-22",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-22-104529 highlights/recommendations3–9",
+        "evidence": "Highlights: performance coverage incomplete.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in June 2022 that ICE did not assess all core Alternatives to Detention activities and outcomes, including community-service referrals. https://www.gao.gov/products/gao-22-104529",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO highlights support core activities including service referrals; relevant recommendation 3 open.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-016",
+    "shortTitle": "ATD absconsion reporting omitted relevant participants.",
+    "claim": "GAO’s 2022 review found ICE left relevant participants out of Alternatives to Detention absconsion-rate calculations, limiting policymakers’ ability to interpret program performance.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "June 2022 findings; contractor data November 2014–2020",
+    "contextNote": "GAO highlights support omitted relevant population; recommendations 4–5 remain open with partial reporting changes noted.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-22-104529",
+        "title": "Alternatives to Detention: ICE Needs to Better Assess Program Performance and Improve Contract Oversight",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2022-06-22",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-22-104529 highlights/recommendations3–9",
+        "evidence": "Highlights: incomplete absconsion denominator.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO’s 2022 review found ICE left relevant participants out of Alternatives to Detention absconsion-rate calculations, limiting policymakers’ ability to interpret program performance. https://www.gao.gov/products/gao-22-104529",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO highlights support omitted relevant population; recommendations 4–5 remain open with partial reporting changes noted.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-017",
+    "shortTitle": "ICE did not fully assess ATD contractor standards or corrections.",
+    "claim": "In 2022, GAO found ICE neither fully assessed its Alternatives to Detention contractor against contract standards nor documented follow-up to ensure identified problems were corrected.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "June 2022 findings; contractor data November 2014–2020",
+    "contextNote": "GAO highlights and recommendations 6–9 support contractor oversight/follow-up deficiencies; these remain open.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-22-104529",
+        "title": "Alternatives to Detention: ICE Needs to Better Assess Program Performance and Improve Contract Oversight",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2022-06-22",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-22-104529 highlights/recommendations3–9",
+        "evidence": "Highlights: contractor evaluation and follow-up gaps.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2022, GAO found ICE neither fully assessed its Alternatives to Detention contractor against contract standards nor documented follow-up to ensure identified problems were corrected. https://www.gao.gov/products/gao-22-104529",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO highlights and recommendations 6–9 support contractor oversight/follow-up deficiencies; these remain open.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-018",
+    "shortTitle": "A budget error understated detention expenses by $129 million.",
+    "claim": "GAO found ICE’s FY2015 budget request understated detention expenses by $129 million because of a calculation error. GAO later closed its budget-review recommendation after system improvements.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Historical FY2014–2018 budget review; later corrective actions noted",
+    "contextNote": "Highlights support $129 million FY2015 error; recommendation status supports later system-based correction.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-18-343",
+        "title": "Immigration Detention: Opportunities Exist to Improve Cost Estimates",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2018-04-18",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-18-343 highlights/recommendations",
+        "evidence": "Highlights and recommendation 1 status.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found ICE’s FY2015 budget request understated detention expenses by $129 million because of a calculation error. GAO later closed its budget-review recommendation after system improvements. https://www.gao.gov/products/gao-18-343",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support $129 million FY2015 error; recommendation status supports later system-based correction.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-019",
+    "shortTitle": "ICE underestimated FY2016 daily adult detention costs.",
+    "claim": "GAO found ICE’s FY2016 projection understated the adult detention bed rate by $5.42 per day. ICE revised its methodology in FY2021; GAO closed that recommendation.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Historical FY2014–2018 budget review; later corrective actions noted",
+    "contextNote": "Highlights support $5.42 FY2016 daily shortfall; status supports first-quarter FY2021 methodology revision and closure.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-18-343",
+        "title": "Immigration Detention: Opportunities Exist to Improve Cost Estimates",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2018-04-18",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-18-343 highlights/recommendations",
+        "evidence": "Highlights and recommendation 2 status.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found ICE’s FY2016 projection understated the adult detention bed rate by $5.42 per day. ICE revised its methodology in FY2021; GAO closed that recommendation. https://www.gao.gov/products/gao-18-343",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support $5.42 FY2016 daily shortfall; status supports first-quarter FY2021 methodology revision and closure.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-020",
+    "shortTitle": "ICE’s FY2018 cost estimate fell short of reliability standards.",
+    "claim": "GAO found ICE’s FY2018 detention-cost estimate only partially met its accuracy and documentation standards and minimally met its credibility standard. This is a historical audit finding.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Historical FY2014–2018 budget review; later corrective actions noted",
+    "contextNote": "Highlights support partial accuracy/documentation and minimal credibility characteristics. Historical wording retained; not current-condition claim.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-18-343",
+        "title": "Immigration Detention: Opportunities Exist to Improve Cost Estimates",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2018-04-18",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-18-343 highlights/recommendations",
+        "evidence": "Highlights: four-characteristic cost-estimate assessment.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found ICE’s FY2018 detention-cost estimate only partially met its accuracy and documentation standards and minimally met its credibility standard. This is a historical audit finding. https://www.gao.gov/products/gao-18-343",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support partial accuracy/documentation and minimal credibility characteristics. Historical wording retained; not current-condition claim.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-021",
+    "shortTitle": "ICE paid $20.5 million for unused beds in May 2020.",
+    "claim": "GAO reported ICE spent $20.5 million in May 2020 on over 12,000 unused detention beds per day on average, under guaranteed-payment arrangements.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2017–May 2020 acquisitions; January 2021 findings",
+    "contextNote": "Fast Facts support $20.5 million May2020 and over 12,000 unused beds/day.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-149",
+        "title": "Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight of Detention Facility Contracts",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-01-13",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-21-149 Fast Facts/highlights",
+        "evidence": "Fast Facts: unused-bed spending.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO reported ICE spent $20.5 million in May 2020 on over 12,000 unused detention beds per day on average, under guaranteed-payment arrangements. https://www.gao.gov/products/gao-21-149",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Fast Facts support $20.5 million May2020 and over 12,000 unused beds/day.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-022",
+    "shortTitle": "Most reviewed new-space acquisitions lacked required documentation.",
+    "claim": "GAO found 28 of 40 ICE detention-space contracts and agreements from FY2017 to May 11, 2020 lacked required documentation supporting the acquisitions.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2017–May 2020 acquisitions; January 2021 findings",
+    "contextNote": "Highlights support 28 of 40 and FY2017–May11,2020 scope.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-149",
+        "title": "Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight of Detention Facility Contracts",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-01-13",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-21-149 Fast Facts/highlights",
+        "evidence": "Highlights: missing field-office acquisition records.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found 28 of 40 ICE detention-space contracts and agreements from FY2017 to May 11, 2020 lacked required documentation supporting the acquisitions. https://www.gao.gov/products/gao-21-149",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support 28 of 40 and FY2017–May11,2020 scope.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-023",
+    "shortTitle": "Contract oversight officials reported interference from management.",
+    "claim": "In GAO’s 2021 review, contract oversight officials in eight of 12 interviewed ICE field offices reported management impediments, including limits on enforcement tools.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2017–May 2020 acquisitions; January 2021 findings",
+    "contextNote": "Highlights support eight of12 interviewed offices, including limits on enforcement tools; sample bound retained.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-21-149",
+        "title": "Immigration Detention: Actions Needed to Improve Planning, Documentation, and Oversight of Detention Facility Contracts",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2021-01-13",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-21-149 Fast Facts/highlights",
+        "evidence": "Highlights: interview findings, not nationwide prevalence.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In GAO’s 2021 review, contract oversight officials in eight of 12 interviewed ICE field offices reported management impediments, including limits on enforcement tools. https://www.gao.gov/products/gao-21-149",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Highlights support eight of12 interviewed offices, including limits on enforcement tools; sample bound retained.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-024",
+    "shortTitle": "ICE transportation-contract appointments did not consistently follow policy.",
+    "claim": "DHS OIG reported in September 2023 that ICE did not consistently appoint transportation-contract oversight representatives according to policy.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2023 audit findings",
+    "contextNote": "Opened official Oversight.gov report description directly supports appointment-policy finding.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/reports/audit/ice-should-improve-controls-over-its-transportation-services-contracts",
+        "title": "ICE Should Improve Controls Over Its Transportation Services Contracts",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2023-09-26",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-23-59 official description/recovery recommendation",
+        "evidence": "Report description: appointment compliance failures.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG reported in September 2023 that ICE did not consistently appoint transportation-contract oversight representatives according to policy. https://www.oversight.gov/reports/audit/ice-should-improve-controls-over-its-transportation-services-contracts",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened official Oversight.gov report description directly supports appointment-policy finding.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-025",
+    "shortTitle": "OIG identified transportation charges requiring recovery review.",
+    "claim": "In September 2023, DHS OIG recommended ICE recover any amounts determined improperly paid, including $408,875 identified as inaccurate or unsupported transportation charges.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2023 audit findings",
+    "contextNote": "Opened official recommendations directly identify $408,875 recovery determination; wording avoids proven-loss/fraud inference.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/reports/audit/ice-should-improve-controls-over-its-transportation-services-contracts",
+        "title": "ICE Should Improve Controls Over Its Transportation Services Contracts",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2023-09-26",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-23-59 official description/recovery recommendation",
+        "evidence": "Recovery recommendation; not proof all amounts ultimately recoverable.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In September 2023, DHS OIG recommended ICE recover any amounts determined improperly paid, including $408,875 identified as inaccurate or unsupported transportation charges. https://www.oversight.gov/reports/audit/ice-should-improve-controls-over-its-transportation-services-contracts",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened official recommendations directly identify $408,875 recovery determination; wording avoids proven-loss/fraud inference.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-026",
+    "shortTitle": "Only 28 of 106 reviewed contracts contained surveillance plans.",
+    "claim": "DHS OIG’s February 2019 bulletin reported that only 28 of 106 reviewed ICE detention contracts included the quality-assurance plan used to enforce performance standards.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "February 2019 OIG bulletin; October 2015–June 2018 penalty period",
+    "contextNote": "Opened official OIG bulletin directly supports 28 of106 QASP coverage.",
+    "sources": [
+      {
+        "url": "https://content.govdelivery.com/accounts/USDHSOIG/bulletins/22c5aea",
+        "title": "ICE Does Not Fully Use Contracting Tools to Hold Detention Facility Contractors Accountable for Failing to Meet Performance Standards",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2019-02-01",
+        "retrievedAt": "2026-10-29",
+        "locator": "DHS OIG bulletin 22c5aea",
+        "evidence": "Official OIG bulletin: surveillance-plan coverage.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG’s February 2019 bulletin reported that only 28 of 106 reviewed ICE detention contracts included the quality-assurance plan used to enforce performance standards. https://content.govdelivery.com/accounts/USDHSOIG/bulletins/22c5aea",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened official OIG bulletin directly supports 28 of106 QASP coverage.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-027",
+    "shortTitle": "ICE imposed only two financial penalties despite thousands of failures.",
+    "claim": "DHS OIG reported ICE imposed financial penalties only twice from October 2015 through June 2018 despite documenting thousands of failures to meet detention standards.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "February 2019 OIG bulletin; October 2015–June 2018 penalty period",
+    "contextNote": "Opened official OIG bulletin directly supports two penalties and thousands of failures in specified historical interval.",
+    "sources": [
+      {
+        "url": "https://content.govdelivery.com/accounts/USDHSOIG/bulletins/22c5aea",
+        "title": "ICE Does Not Fully Use Contracting Tools to Hold Detention Facility Contractors Accountable for Failing to Meet Performance Standards",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2019-02-01",
+        "retrievedAt": "2026-10-29",
+        "locator": "DHS OIG bulletin 22c5aea",
+        "evidence": "Official OIG bulletin: penalty frequency versus documented failures.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG reported ICE imposed financial penalties only twice from October 2015 through June 2018 despite documenting thousands of failures to meet detention standards. https://content.govdelivery.com/accounts/USDHSOIG/bulletins/22c5aea",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened official OIG bulletin directly supports two penalties and thousands of failures in specified historical interval.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-028",
+    "shortTitle": "ICE may have overpaid $769,869 in labor costs.",
+    "claim": "DHS OIG’s 2021 Capgemini audit found ICE may have overpaid $769,869 for labor not provided. The report calls this a possible overpayment, not a proven fraud finding.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "August 2018–December 2019 staffing records; August 2021 audit",
+    "contextNote": "Opened OIG PDF highlights supports possible $769,869 labor overpayment; uncertainty retained.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-09/OIG-21-57-Aug21.pdf",
+        "title": "ICE’s Oversight of the Capgemini Contract Needs Improvement",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-08-26",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-21-57 highlights",
+        "evidence": "Pages 3, 6: possible labor overpayment.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_full_pdf",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG’s 2021 Capgemini audit found ICE may have overpaid $769,869 for labor not provided. The report calls this a possible overpayment, not a proven fraud finding. https://www.oversight.gov/sites/default/files/documents/reports/2021-09/OIG-21-57-Aug21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened OIG PDF highlights supports possible $769,869 labor overpayment; uncertainty retained.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-029",
+    "shortTitle": "ICE used an unsuitable labor-hour measure for a fixed-price contract.",
+    "claim": "In 2021, DHS OIG found ICE used a labor-hour performance measure for its fixed-price Capgemini contract—an inappropriate arrangement that undermined contract monitoring.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "August 2018–December 2019 staffing records; August 2021 audit",
+    "contextNote": "Opened OIG PDF highlights supports fixed-price/labor-hour mismatch.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-09/OIG-21-57-Aug21.pdf",
+        "title": "ICE’s Oversight of the Capgemini Contract Needs Improvement",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-08-26",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-21-57 highlights",
+        "evidence": "Page 3: contract type and measurement mismatch.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_full_pdf",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "In 2021, DHS OIG found ICE used a labor-hour performance measure for its fixed-price Capgemini contract—an inappropriate arrangement that undermined contract monitoring. https://www.oversight.gov/sites/default/files/documents/reports/2021-09/OIG-21-57-Aug21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened OIG PDF highlights supports fixed-price/labor-hour mismatch.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-030",
+    "shortTitle": "ICE spent about $17 million on largely unused hotel capacity.",
+    "claim": "DHS OIG reported ICE spent approximately $17 million for space and services at six hotels that went largely unused between April and June 2021.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "April–June 2021 spending; April 12, 2022 report",
+    "contextNote": "Opened OIG PDF highlights supports approximately $17 million, six hotels, April–June2021.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-04/OIG-22-37.pdf",
+        "title": "ICE Spent Funds on Unused Beds, Missed COVID-19 Protocols and Detention Standards while Housing Migrant Families in Hotels",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-04-12",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-22-37 highlights and printed pp12–13",
+        "evidence": "Report highlights, page 5; ICE disputed sole-source justification criticism.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_full_pdf",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG reported ICE spent approximately $17 million for space and services at six hotels that went largely unused between April and June 2021. https://www.oversight.gov/sites/default/files/documents/reports/2022-04/OIG-22-37.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened OIG PDF highlights supports approximately $17 million, six hotels, April–June2021.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-031",
+    "shortTitle": "ICE inadequately justified a sole-source family-housing contract.",
+    "claim": "DHS OIG’s April 2022 review found ICE inadequately justified a sole-source contract for migrant-family hotels. ICE disputed the finding, citing urgent housing needs.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "April–June 2021 spending; April 12, 2022 report",
+    "contextNote": "Opened OIG PDF highlights and printed pages12–13 support sole-source finding and ICE urgent-needs disagreement; administrative closure is not implementation.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-04/OIG-22-37.pdf",
+        "title": "ICE Spent Funds on Unused Beds, Missed COVID-19 Protocols and Detention Standards while Housing Migrant Families in Hotels",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-04-12",
+        "retrievedAt": "2026-10-29",
+        "locator": "OIG-22-37 highlights and printed pp12–13",
+        "evidence": "Report highlights, page 5; ICE disputed sole-source justification criticism.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_full_pdf",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "DHS OIG’s April 2022 review found ICE inadequately justified a sole-source contract for migrant-family hotels. ICE disputed the finding, citing urgent housing needs. https://www.oversight.gov/sites/default/files/documents/reports/2022-04/OIG-22-37.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "Opened OIG PDF highlights and printed pages12–13 support sole-source finding and ICE urgent-needs disagreement; administrative closure is not implementation.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-032",
+    "shortTitle": "HSI lacked periodic checks of facial-recognition training compliance.",
+    "claim": "GAO found in 2023 that ICE’s HSI lacked a process to periodically check facial-recognition training compliance. HSI implemented a verification process in June 2024, and GAO closed the recommendation.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September 2023 findings; June 2024 corrective action",
+    "contextNote": "GAO recommendation1 status supports gap, June2024 Clearview validation process, closure; claim properly ICE HSI-specific.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-23-105607",
+        "title": "Facial Recognition Services: Federal Law Enforcement Agencies Should Take Actions to Implement Training, and Policies for Civil Liberties",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2023-09-05",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-23-105607 recommendation1",
+        "evidence": "Recommendation 1 status: historical gap and subsequent correction.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": []
+      }
+    ],
+    "postText": "GAO found in 2023 that ICE’s HSI lacked a process to periodically check facial-recognition training compliance. HSI implemented a verification process in June 2024, and GAO closed the recommendation. https://www.gao.gov/products/gao-23-105607",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO recommendation1 status supports gap, June2024 Clearview validation process, closure; claim properly ICE HSI-specific.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-033",
+    "shortTitle": "ICE did not comprehensively analyze inspection trends in 2020.",
+    "claim": "GAO found in 2020 that ICE did not comprehensively analyze detention inspection results for trends. After ICE supplied trend analyses in June 2024, GAO closed the related recommendations.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2017–2019 data; August 2020 findings; corrective actions 2023–2025",
+    "contextNote": "GAO highlights and recommendations1/3 statuses support finding and June2024 trend analyses/closure.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-20-596",
+        "title": "Immigration Detention: ICE Should Enhance Its Use of Facility Oversight Data and Management of Detainee Complaints",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2020-08-19",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-20-596 highlights/recommendations1,3,5,6",
+        "evidence": "Report highlights; recommendations 1 and 3 status document 2024 corrective action.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": [
+          "https://www.gao.gov/assets/gao-20-596.pdf"
+        ]
+      }
+    ],
+    "postText": "GAO found in 2020 that ICE did not comprehensively analyze detention inspection results for trends. After ICE supplied trend analyses in June 2024, GAO closed the related recommendations. https://www.gao.gov/products/gao-20-596",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO highlights and recommendations1/3 statuses support finding and June2024 trend analyses/closure.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-034",
+    "shortTitle": "ICE lacked regular cross-office complaint analysis in 2020.",
+    "claim": "GAO found in 2020 that ICE did not regularly analyze detention complaints across relevant offices. ICE implemented an integrated system and supplied analyses in 2024; GAO closed the recommendation.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2017–2019 data; August 2020 findings; corrective actions 2023–2025",
+    "contextNote": "GAO highlights and recommendation5 status support cross-office gap, implemented system/analyses and closure.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-20-596",
+        "title": "Immigration Detention: ICE Should Enhance Its Use of Facility Oversight Data and Management of Detainee Complaints",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2020-08-19",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-20-596 highlights/recommendations1,3,5,6",
+        "evidence": "Report highlights; recommendation 5 status documents corrective action.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": [
+          "https://www.gao.gov/assets/gao-20-596.pdf"
+        ]
+      }
+    ],
+    "postText": "GAO found in 2020 that ICE did not regularly analyze detention complaints across relevant offices. ICE implemented an integrated system and supplied analyses in 2024; GAO closed the recommendation. https://www.gao.gov/products/gao-20-596",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO highlights and recommendation5 status support cross-office gap, implemented system/analyses and closure.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-oversight-035",
+    "shortTitle": "Field offices rarely reported outcomes for certain complaint referrals.",
+    "claim": "GAO found in 2020 that ICE field offices failed to report resolutions for 99% of certain noncriminal complaint referrals from one unit. Later tracking reforms led GAO to close the recommendation.",
+    "asOf": "2026-10-29",
+    "category": "Oversight and spending",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "FY2017–2019 data; August 2020 findings; corrective actions 2023–2025",
+    "contextNote": "GAO highlights specify 99% of certain Administrative Inquiry Unit referrals, not all complaints; recommendation6 status supports tracking reforms/closure.",
+    "sources": [
+      {
+        "url": "https://www.gao.gov/products/gao-20-596",
+        "title": "Immigration Detention: ICE Should Enhance Its Use of Facility Oversight Data and Management of Detainee Complaints",
+        "publisher": "U.S. Government Accountability Office",
+        "publishedAt": "2020-08-19",
+        "retrievedAt": "2026-10-29",
+        "locator": "GAO-20-596 highlights/recommendations1,3,5,6",
+        "evidence": "Report highlights: Administrative Inquiry Unit referrals; recommendation 6 status records 2023–2025 reforms.",
+        "evidenceKind": "summary",
+        "sourceAccess": "independently_opened_primary_summary_or_bulletin_and_relevant_status",
+        "supportingUrls": [
+          "https://www.gao.gov/assets/gao-20-596.pdf"
+        ]
+      }
+    ],
+    "postText": "GAO found in 2020 that ICE field offices failed to report resolutions for 99% of certain noncriminal complaint referrals from one unit. Later tracking reforms led GAO to close the recommendation. https://www.gao.gov/products/gao-20-596",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim checked against primary-source text. Maintainer review and user approval are separate.",
+      "note": "GAO highlights specify 99% of certain Administrative Inquiry Unit referrals, not all complaints; recommendation6 status supports tracking reforms/closure.",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-001",
+    "shortTitle": "Incomplete force reporting",
+    "claim": "DHS OIG reported in November 2023 that Mesa Verde failed to accurately report and fully record a use-of-force incident.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "April 2023 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/reports/limited-scope-unannounced-inspection-mesa-verde-ice-processing-center-bakersfield",
+        "title": "Mesa Verde limited-scope inspection",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2023-11",
+        "retrievedAt": "2026-10-29",
+        "locator": "Opened official Oversight.gov Mesa Verde report description",
+        "evidence": "Official catalog confirms the reporting failure.",
+        "evidenceKind": "summary",
+        "sourceAccess": "official_summary",
+        "documentType": "official_catalog_summary",
+        "supportingUrls": [],
+        "reportNumber": "OIG-24-03"
+      }
+    ],
+    "postText": "DHS OIG reported in November 2023 that Mesa Verde failed to accurately report and fully record a use-of-force incident. https://www.oversight.gov/reports/limited-scope-unannounced-inspection-mesa-verde-ice-processing-center-bakersfield",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-002",
+    "shortTitle": "Delayed advanced eye care",
+    "claim": "DHS OIG’s 2023 Mesa Verde review found delayed advanced eye care because community optometrists were unavailable, despite general medical compliance.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "April 2023 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/reports/limited-scope-unannounced-inspection-mesa-verde-ice-processing-center-bakersfield",
+        "title": "Mesa Verde limited-scope inspection",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2023-11",
+        "retrievedAt": "2026-10-29",
+        "locator": "Opened official Oversight.gov Mesa Verde report description",
+        "evidence": "Access difficulties delayed optometry.",
+        "evidenceKind": "summary",
+        "sourceAccess": "official_summary",
+        "documentType": "official_catalog_summary",
+        "supportingUrls": [],
+        "reportNumber": "OIG-24-03"
+      }
+    ],
+    "postText": "DHS OIG’s 2023 Mesa Verde review found delayed advanced eye care because community optometrists were unavailable, despite general medical compliance. https://www.oversight.gov/reports/limited-scope-unannounced-inspection-mesa-verde-ice-processing-center-bakersfield",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-003",
+    "shortTitle": "Dental vacancy delayed care",
+    "claim": "DHS OIG’s September 2023 Caroline report found that lacking a dentist delayed advanced dental treatment.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2023 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/reports/results-unannounced-inspection-ices-caroline-detention-facility-bowling-green-virginia",
+        "title": "Caroline detention inspection",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2023-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "Opened official Oversight.gov report description; Caroline recommendation8 for chronic-care guidance",
+        "evidence": "Most medical standards were met; dental delays remained.",
+        "evidenceKind": "summary",
+        "sourceAccess": "official_summary",
+        "documentType": "official_catalog_summary",
+        "supportingUrls": [],
+        "reportNumber": "OIG-23-51"
+      }
+    ],
+    "postText": "DHS OIG’s September 2023 Caroline report found that lacking a dentist delayed advanced dental treatment. https://www.oversight.gov/reports/results-unannounced-inspection-ices-caroline-detention-facility-bowling-green-virginia",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-004",
+    "shortTitle": "Outdated chronic-care guidance",
+    "claim": "DHS OIG’s 2023 Caroline review flagged outdated chronic-illness treatment guidance and recommended using current guidance.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2023 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/reports/results-unannounced-inspection-ices-caroline-detention-facility-bowling-green-virginia",
+        "title": "Caroline detention inspection",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2023-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "Opened official Oversight.gov report description; Caroline recommendation8 for chronic-care guidance",
+        "evidence": "Medical guidance required updating.",
+        "evidenceKind": "summary",
+        "sourceAccess": "official_summary",
+        "documentType": "official_catalog_summary",
+        "supportingUrls": [],
+        "reportNumber": "OIG-23-51"
+      }
+    ],
+    "postText": "DHS OIG’s 2023 Caroline review flagged outdated chronic-illness treatment guidance and recommended using current guidance. https://www.oversight.gov/reports/results-unannounced-inspection-ices-caroline-detention-facility-bowling-green-virginia",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-005",
+    "shortTitle": "Work-program standards violated",
+    "claim": "DHS OIG’s 2023 Caroline review found noncompliance with voluntary-work-program standards.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January 2023 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/reports/results-unannounced-inspection-ices-caroline-detention-facility-bowling-green-virginia",
+        "title": "Caroline detention inspection",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2023-09",
+        "retrievedAt": "2026-10-29",
+        "locator": "Opened official Oversight.gov report description; Caroline recommendation8 for chronic-care guidance",
+        "evidence": "Official summary identifies work-program noncompliance.",
+        "evidenceKind": "summary",
+        "sourceAccess": "official_summary",
+        "documentType": "official_catalog_summary",
+        "supportingUrls": [],
+        "reportNumber": "OIG-23-51"
+      }
+    ],
+    "postText": "DHS OIG’s 2023 Caroline review found noncompliance with voluntary-work-program standards. https://www.oversight.gov/reports/results-unannounced-inspection-ices-caroline-detention-facility-bowling-green-virginia",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-006",
+    "shortTitle": "Excessive strip searches",
+    "claim": "DHS OIG’s 2019 Howard County inspection found excessive strip searches of ICE detainees leaving housing for activities, violating ICE standards and facility policy.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "December 2019 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2020-11/OIG-21-03-Oct20.pdf",
+        "title": "Howard County care and treatment",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2020-10-28",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights, PDF page 3",
+        "evidence": "Internal movements triggered improper searches.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-03"
+      }
+    ],
+    "postText": "DHS OIG’s 2019 Howard County inspection found excessive strip searches of ICE detainees leaving housing for activities, violating ICE standards and facility policy. https://www.oversight.gov/sites/default/files/documents/reports/2020-11/OIG-21-03-Oct20.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-007",
+    "shortTitle": "Required hot meals missing",
+    "claim": "DHS OIG’s 2020 Howard County report found detainees were not receiving the required two hot meals daily.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "December 2019 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2020-11/OIG-21-03-Oct20.pdf",
+        "title": "Howard County care and treatment",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2020-10-28",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights, PDF page 3",
+        "evidence": "Food-service standards were unmet.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-03"
+      }
+    ],
+    "postText": "DHS OIG’s 2020 Howard County report found detainees were not receiving the required two hot meals daily. https://www.oversight.gov/sites/default/files/documents/reports/2020-11/OIG-21-03-Oct20.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-008",
+    "shortTitle": "Segregation care records incomplete",
+    "claim": "DHS OIG’s 2020 Howard County report found meals and daily medical visits were inconsistently documented for segregated detainees. Missing records do not prove care was absent.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "December 2019 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2020-11/OIG-21-03-Oct20.pdf",
+        "title": "Howard County care and treatment",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2020-10-28",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights, PDF page 3",
+        "evidence": "This finding concerns documentation.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-03"
+      }
+    ],
+    "postText": "DHS OIG’s 2020 Howard County report found meals and daily medical visits were inconsistently documented for segregated detainees. Missing records do not prove care was absent. https://www.oversight.gov/sites/default/files/documents/reports/2020-11/OIG-21-03-Oct20.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-009",
+    "shortTitle": "Apparently spoiled meat slated for service",
+    "claim": "DHS OIG’s 2017 Theo Lacy alert described slimy, foul-smelling meat apparently spoiled and slated for detainees’ lunch during the inspection.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "November 2016 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG-mga-030617.pdf",
+        "title": "Theo Lacy management alert",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2017-03-06",
+        "retrievedAt": "2026-10-29",
+        "locator": "Printed pages 1–4",
+        "evidence": "Inspectors observed food-safety risks.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-17-43-MA"
+      }
+    ],
+    "postText": "DHS OIG’s 2017 Theo Lacy alert described slimy, foul-smelling meat apparently spoiled and slated for detainees’ lunch during the inspection. https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG-mga-030617.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-010",
+    "shortTitle": "Custody risk groups improperly mixed",
+    "claim": "DHS OIG’s 2016 Theo Lacy inspection observed high- and low-risk detainees together contrary to ICE detention standards.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "November 2016 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG-mga-030617.pdf",
+        "title": "Theo Lacy management alert",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2017-03-06",
+        "retrievedAt": "2026-10-29",
+        "locator": "Printed pages 1–4",
+        "evidence": "Housing classification safeguards failed.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-17-43-MA"
+      }
+    ],
+    "postText": "DHS OIG’s 2016 Theo Lacy inspection observed high- and low-risk detainees together contrary to ICE detention standards. https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG-mga-030617.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-011",
+    "shortTitle": "Restrictive housing moves lacked appeal",
+    "claim": "DHS OIG’s 2017 Theo Lacy alert found moves to more restrictive housing were not explained to detainees, who lacked required appeal opportunities.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "November 2016 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG-mga-030617.pdf",
+        "title": "Theo Lacy management alert",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2017-03-06",
+        "retrievedAt": "2026-10-29",
+        "locator": "Printed pages 1–4",
+        "evidence": "Housing-change procedures violated standards.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-17-43-MA"
+      }
+    ],
+    "postText": "DHS OIG’s 2017 Theo Lacy alert found moves to more restrictive housing were not explained to detainees, who lacked required appeal opportunities. https://www.oversight.gov/sites/default/files/documents/reports/2017-07/OIG-mga-030617.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-012",
+    "shortTitle": "Slow sick-call responses",
+    "claim": "DHS OIG’s 2021 La Palma report found sick-call responses averaged 3.35 days in its review.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "August–November 2020 review",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-04/OIG-21-30-Mar21.pdf",
+        "title": "La Palma detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-03-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "Medical responses were delayed.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-30"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 La Palma report found sick-call responses averaged 3.35 days in its review. https://www.oversight.gov/sites/default/files/documents/reports/2021-04/OIG-21-30-Mar21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-013",
+    "shortTitle": "Prescription refills missed",
+    "claim": "DHS OIG’s 2021 La Palma report found the medical unit failed to refill some prescriptions.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "August–November 2020 review",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-04/OIG-21-30-Mar21.pdf",
+        "title": "La Palma detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-03-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "Medication continuity failed for some prescriptions.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-30"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 La Palma report found the medical unit failed to refill some prescriptions. https://www.oversight.gov/sites/default/files/documents/reports/2021-04/OIG-21-30-Mar21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-014",
+    "shortTitle": "Pandemic precautions unenforced",
+    "claim": "DHS OIG’s 2020 La Palma inspection found ICE masking and distancing precautions were not enforced. The report did not establish individual infection causation.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "August–November 2020 review",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-04/OIG-21-30-Mar21.pdf",
+        "title": "La Palma detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-03-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "OIG described a possible outbreak contribution.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-30"
+      }
+    ],
+    "postText": "DHS OIG’s 2020 La Palma inspection found ICE masking and distancing precautions were not enforced. The report did not establish individual infection causation. https://www.oversight.gov/sites/default/files/documents/reports/2021-04/OIG-21-30-Mar21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-015",
+    "shortTitle": "Urgent hospital referral omitted",
+    "claim": "DHS OIG’s 2021 Adams report identified a detainee who died after the medical unit failed to send him for urgent hospital treatment.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January–February 2021 review",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-07/OIG-21-46-Jul21.pdf",
+        "title": "Adams County detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-07-14",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "OIG reported sequence, not a judicial causation finding.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-46"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 Adams report identified a detainee who died after the medical unit failed to send him for urgent hospital treatment. https://www.oversight.gov/sites/default/files/documents/reports/2021-07/OIG-21-46-Jul21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-016",
+    "shortTitle": "Test follow-up deficiencies",
+    "claim": "DHS OIG’s 2021 Adams review found inadequate documentation of sick-call outcomes and inadequate review and follow-up of test results.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "January–February 2021 review",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2021-07/OIG-21-46-Jul21.pdf",
+        "title": "Adams County detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-07-14",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "Care generally met standards apart from identified deficiencies.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-46"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 Adams review found inadequate documentation of sick-call outcomes and inadequate review and follow-up of test results. https://www.oversight.gov/sites/default/files/documents/reports/2021-07/OIG-21-46-Jul21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-017",
+    "shortTitle": "Specialty and mental-health care deficient",
+    "claim": "DHS OIG’s June 2022 Folkston report found delayed specialty treatment and inadequate mental-health care for detainees. OIG credited corrective action by publication.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "November 16–18, 2021 inspection",
+    "contextNote": "OIG closed12 of13 recommendations at publication; staffing recommendation12 remained open.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-07/OIG-22-47-July22.pdf",
+        "title": "Folkston detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-06-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights, PDF page 3",
+        "evidence": "Medical access failed reviewed standards.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-47"
+      }
+    ],
+    "postText": "DHS OIG’s June 2022 Folkston report found delayed specialty treatment and inadequate mental-health care for detainees. OIG credited corrective action by publication. https://www.oversight.gov/sites/default/files/documents/reports/2022-07/OIG-22-47-July22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-018",
+    "shortTitle": "Unsanitary Folkston conditions",
+    "claim": "DHS OIG’s 2021 Folkston inspection found insect infestations, broken toilets, and mold and debris in ventilation, among sanitation failures. OIG credited corrective action by publication.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "November 16–18, 2021 inspection",
+    "contextNote": "OIG closed12 of13 recommendations at publication; staffing recommendation12 remained open.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-07/OIG-22-47-July22.pdf",
+        "title": "Folkston detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-06-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights, PDF page 3",
+        "evidence": "Inspectors directly observed facility deficiencies.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-47"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 Folkston inspection found insect infestations, broken toilets, and mold and debris in ventilation, among sanitation failures. OIG credited corrective action by publication. https://www.oversight.gov/sites/default/files/documents/reports/2022-07/OIG-22-47-July22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-019",
+    "shortTitle": "Contract staffing levels unmet",
+    "claim": "DHS OIG’s 2022 Folkston report found staffing below contract requirements intended to ensure proper detainee oversight.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "November 16–18, 2021 inspection",
+    "contextNote": "At June2022 publication, staffing recommendation12 remained resolved and open;12 other recommendations closed. This is not an assessment of2026 staffing.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-07/OIG-22-47-July22.pdf",
+        "title": "Folkston detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-06-30",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights, PDF page 3",
+        "evidence": "Required staffing levels were not met.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-47"
+      }
+    ],
+    "postText": "DHS OIG’s 2022 Folkston report found staffing below contract requirements intended to ensure proper detainee oversight. https://www.oversight.gov/sites/default/files/documents/reports/2022-07/OIG-22-47-July22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-020",
+    "shortTitle": "Some mistreatment complaints substantiated",
+    "claim": "DHS OIG’s 2022 South Texas report said the facility substantiated some detainee complaints of staff mistreatment—not merely that complaints existed.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September–October 2021 review",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-05/OIG-22-40-Apr22.pdf",
+        "title": "South Texas detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-04-22",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "The facility confirmed some incidents.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-40"
+      }
+    ],
+    "postText": "DHS OIG’s 2022 South Texas report said the facility substantiated some detainee complaints of staff mistreatment—not merely that complaints existed. https://www.oversight.gov/sites/default/files/documents/reports/2022-05/OIG-22-40-Apr22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-021",
+    "shortTitle": "Segregation services deficient",
+    "claim": "DHS OIG’s 2022 South Texas report found inconsistent access to required legal materials and razors for detainees in segregation.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "September–October 2021 review",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-05/OIG-22-40-Apr22.pdf",
+        "title": "South Texas detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-04-22",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "Missing records also impeded assessment of other services.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-40"
+      }
+    ],
+    "postText": "DHS OIG’s 2022 South Texas report found inconsistent access to required legal materials and razors for detainees in segregation. https://www.oversight.gov/sites/default/files/documents/reports/2022-05/OIG-22-40-Apr22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-022",
+    "shortTitle": "Cell safety hazards observed",
+    "claim": "DHS OIG’s May 2018 Adelanto inspection observed bedsheets described as nooses in about 15 of approximately 20 male cells visited.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "May 2018 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo123195/pdf/GOVPUB-HS-PURL-gpo123195.pdf",
+        "title": "Adelanto management alert",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2018-09-27",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "The alert identified significant safety risks.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-18-86"
+      }
+    ],
+    "postText": "DHS OIG’s May 2018 Adelanto inspection observed bedsheets described as nooses in about 15 of approximately 20 male cells visited. https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo123195/pdf/GOVPUB-HS-PURL-gpo123195.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-023",
+    "shortTitle": "Medical care inadequate and delayed",
+    "claim": "DHS OIG’s September 2018 Adelanto alert identified untimely, inadequate medical care as a serious detention-standard violation.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "May 2018 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo123195/pdf/GOVPUB-HS-PURL-gpo123195.pdf",
+        "title": "Adelanto management alert",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2018-09-27",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "ICE agreed to review facility management.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-18-86"
+      }
+    ],
+    "postText": "DHS OIG’s September 2018 Adelanto alert identified untimely, inadequate medical care as a serious detention-standard violation. https://www.govinfo.gov/content/pkg/GOVPUB-HS-PURL-gpo123195/pdf/GOVPUB-HS-PURL-gpo123195.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-024",
+    "shortTitle": "Relocation recommended",
+    "claim": "DHS OIG’s September 2022 Torrance report reiterated its recommendation to relocate all detainees until adequate staffing and living conditions were ensured.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_recommendation",
+    "status": "needs_review",
+    "temporalScope": "February 2022 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-22-75-Sep22.pdf",
+        "title": "Torrance detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-09-28",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "This was an OIG recommendation, not an executed relocation.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-75"
+      }
+    ],
+    "postText": "DHS OIG’s September 2022 Torrance report reiterated its recommendation to relocate all detainees until adequate staffing and living conditions were ensured. https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-22-75-Sep22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-025",
+    "shortTitle": "Medical standards unmet",
+    "claim": "DHS OIG’s 2022 Torrance report found medical care did not meet detention standards.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "February 2022 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-22-75-Sep22.pdf",
+        "title": "Torrance detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-09-28",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "Inspectors identified medical-care deficiencies.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-75"
+      }
+    ],
+    "postText": "DHS OIG’s 2022 Torrance report found medical care did not meet detention standards. https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-22-75-Sep22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-026",
+    "shortTitle": "Critical staffing shortages",
+    "claim": "DHS OIG’s 2022 Torrance inspection identified critical staffing shortages compromising detainee safety and rights.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "February 2022 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-22-75-Sep22.pdf",
+        "title": "Torrance detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-09-28",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "The report linked shortages to supervision problems.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-75"
+      }
+    ],
+    "postText": "DHS OIG’s 2022 Torrance inspection identified critical staffing shortages compromising detainee safety and rights. https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-22-75-Sep22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-027",
+    "shortTitle": "Chronic-care processes inadequate",
+    "claim": "DHS OIG’s January 2022 Irwin report found inadequate chronic-care and continuity-of-care processes, despite general compliance with detention standards. ICE’s contract ended in October 2021.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Review began October 2020; contract ended October 2021",
+    "contextNote": "Report states contract ended October7,2021; four recommendations administratively closed because they could no longer be implemented.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-01/OIG-22-14-Jan22.pdf",
+        "title": "Irwin medical processes review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-01-03",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "Medical process evaluation identified weaknesses.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-14"
+      }
+    ],
+    "postText": "DHS OIG’s January 2022 Irwin report found inadequate chronic-care and continuity-of-care processes, despite general compliance with detention standards. ICE’s contract ended in October 2021. https://www.oversight.gov/sites/default/files/documents/reports/2022-01/OIG-22-14-Jan22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-028",
+    "shortTitle": "Pandemic guidance communication inadequate",
+    "claim": "DHS OIG’s 2022 Irwin report found ICE and facility management did not adequately and consistently communicate COVID-19 protocols to staff and detainees. ICE’s contract ended in October 2021.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Review began October 2020; contract ended October 2021",
+    "contextNote": "Report states contract ended October7,2021; four recommendations administratively closed because they could no longer be implemented.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2022-01/OIG-22-14-Jan22.pdf",
+        "title": "Irwin medical processes review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2022-01-03",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "General COVID guidance compliance did not cure communication failures.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-22-14"
+      }
+    ],
+    "postText": "DHS OIG’s 2022 Irwin report found ICE and facility management did not adequately and consistently communicate COVID-19 protocols to staff and detainees. ICE’s contract ended in October 2021. https://www.oversight.gov/sites/default/files/documents/reports/2022-01/OIG-22-14-Jan22.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-029",
+    "shortTitle": "Mask waiver initially demanded",
+    "claim": "DHS OIG’s 2021 Otay Mesa report found staff initially demanded liability waivers to obtain masks, then reversed the requirement that same day.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "February–April 2021 review; mask incident April 2020",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-21-61-Sep21.pdf",
+        "title": "Otay Mesa detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-09-14",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "The correction is material context.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-61"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 Otay Mesa report found staff initially demanded liability waivers to obtain masks, then reversed the requirement that same day. https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-21-61-Sep21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-030",
+    "shortTitle": "Misconduct grievances not forwarded",
+    "claim": "DHS OIG’s 2021 Otay Mesa report found the facility failed to forward staff-misconduct grievances to ICE as required.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "February–April 2021 review; mask incident April 2020",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-21-61-Sep21.pdf",
+        "title": "Otay Mesa detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-09-14",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "Complaint escalation did not meet standards.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-61"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 Otay Mesa report found the facility failed to forward staff-misconduct grievances to ICE as required. https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-21-61-Sep21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-031",
+    "shortTitle": "Segregation services inconsistent",
+    "claim": "DHS OIG’s 2021 Otay Mesa report found required segregation services, including recreation and legal calls, were not consistently provided.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "February–April 2021 review; mask incident April 2020",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-21-61-Sep21.pdf",
+        "title": "Otay Mesa detention standards review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2021-09-14",
+        "retrievedAt": "2026-10-29",
+        "locator": "Highlights / What We Found",
+        "evidence": "The report found deficient segregation access.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-21-61"
+      }
+    ],
+    "postText": "DHS OIG’s 2021 Otay Mesa report found required segregation services, including recreation and legal calls, were not consistently provided. https://www.oversight.gov/sites/default/files/oig-reports/DHS/OIG-21-61-Sep21.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-032",
+    "shortTitle": "Loaded-firearm incident unreported",
+    "claim": "DHS OIG’s 2019 Essex report found the facility failed to notify ICE after a detainee discovered a guard’s loaded handgun in a staff bathroom.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "April 2018 incident; July 2018 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2019-02/OIG-19-20-Feb19.pdf",
+        "title": "Essex facility management review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2019-02-13",
+        "retrievedAt": "2026-10-29",
+        "locator": "Printed pages 3 and 8",
+        "evidence": "Facility leadership confirmed the incident.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-19-20"
+      }
+    ],
+    "postText": "DHS OIG’s 2019 Essex report found the facility failed to notify ICE after a detainee discovered a guard’s loaded handgun in a staff bathroom. https://www.oversight.gov/sites/default/files/documents/reports/2019-02/OIG-19-20-Feb19.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-033",
+    "shortTitle": "Mattresses held together with sheets",
+    "claim": "DHS OIG’s July 2018 Essex inspection found mattresses so damaged that detainees tied seams with bedsheets to keep filling inside. ICE reported worn mattresses were replaced.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "July2018 inspection",
+    "contextNote": "ICE response on printedp11 says all mattresses showing wear were replaced; overall recommendation remained open.",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2019-02/OIG-19-20-Feb19.pdf",
+        "title": "Essex facility management review",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2019-02-13",
+        "retrievedAt": "2026-10-29",
+        "locator": "Printed pages 3 and 8",
+        "evidence": "Inspectors documented deteriorated bedding.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-19-20"
+      }
+    ],
+    "postText": "DHS OIG’s July 2018 Essex inspection found mattresses so damaged that detainees tied seams with bedsheets to keep filling inside. ICE reported worn mattresses were replaced. https://www.oversight.gov/sites/default/files/documents/reports/2019-02/OIG-19-20-Feb19.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-034",
+    "shortTitle": "Essex food contamination hazards",
+    "claim": "DHS OIG’s July 2018 Essex inspection found leaking raw chicken, apparently spoiled lunch meat and moldy bread in refrigeration.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Essex July 2018 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2019-06/OIG-19-47-Jun19.pdf",
+        "title": "Four detention facilities: treatment and care",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2019-06-03",
+        "retrievedAt": "2026-10-29",
+        "locator": "Printed pages 4 and 8",
+        "evidence": "Food handling created health risks.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-19-47"
+      }
+    ],
+    "postText": "DHS OIG’s July 2018 Essex inspection found leaking raw chicken, apparently spoiled lunch meat and moldy bread in refrigeration. https://www.oversight.gov/sites/default/files/documents/reports/2019-06/OIG-19-47-Jun19.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  },
+  {
+    "id": "ice-det-035",
+    "shortTitle": "Essex bathroom mold",
+    "claim": "DHS OIG’s 2019 report on its 2018 Essex inspection described mold across bathroom walls, ceilings, vents, mirrors and shower stalls.",
+    "asOf": "2026-10-29",
+    "category": "Detention",
+    "classification": "official_finding",
+    "status": "needs_review",
+    "temporalScope": "Essex July 2018 inspection",
+    "contextNote": "",
+    "sources": [
+      {
+        "url": "https://www.oversight.gov/sites/default/files/documents/reports/2019-06/OIG-19-47-Jun19.pdf",
+        "title": "Four detention facilities: treatment and care",
+        "publisher": "Department of Homeland Security Office of Inspector General",
+        "publishedAt": "2019-06-03",
+        "retrievedAt": "2026-10-29",
+        "locator": "Printed pages 4 and 8",
+        "evidence": "Environmental sanitation deficiencies were observed.",
+        "evidenceKind": "summary",
+        "sourceAccess": "full_text",
+        "documentType": "inspection_report",
+        "supportingUrls": [],
+        "reportNumber": "OIG-19-47"
+      }
+    ],
+    "postText": "DHS OIG’s 2019 report on its 2018 Essex inspection described mold across bathroom walls, ceilings, vents, mirrors and shower stalls. https://www.oversight.gov/sites/default/files/documents/reports/2019-06/OIG-19-47-Jun19.pdf",
+    "review": null,
+    "researchReview": {
+      "status": "supported",
+      "reviewedAt": "2026-10-29",
+      "scope": "Historical claim entailment; no publication authorization",
+      "note": "",
+      "publicationStatus": "not_authorized"
+    }
+  }
+]
