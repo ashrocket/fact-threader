@@ -4,6 +4,8 @@ A transparent, opt-in Threads publisher for sourced criticism of U.S. Immigratio
 
 **Current state: disconnected preview.** Real OAuth and publishing are disabled. The launch corpus is pending source review. Synthetic demo posts are clearly labelled and never become eligible for publishing. This is original standalone code, not a copy of another application.
 
+[Open the public preview](https://fact-threader.pages.dev) · [Source and contributions](https://github.com/ashrocket/fact-threader)
+
 ## Try it locally
 
 Node 22.18+ is required.

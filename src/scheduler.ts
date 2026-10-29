@@ -34,7 +34,7 @@ export async function runScheduled(env: Environment, facts: Fact[], now=Date.now
   // publication is intentionally held for reconciliation rather than duplicated.
   const uncertain=await env.DB.prepare("UPDATE jobs SET status='uncertain',error_code='interrupted_write' WHERE status='sending' AND lease_until<? RETURNING account_id").bind(now).all<{account_id:string}>();
   for(const row of uncertain.results) await env.DB.prepare("UPDATE accounts SET status='attention' WHERE id=?").bind(row.account_id).run();
-  const due=await env.DB.prepare("SELECT * FROM accounts WHERE status='active' AND next_due_at<=? ORDER BY next_due_at LIMIT 10").bind(now).all<Account>();
+  const due=await env.DB.prepare("SELECT * FROM accounts WHERE status='active' AND next_due_at<=? AND NOT EXISTS(SELECT 1 FROM jobs WHERE jobs.account_id=accounts.id AND jobs.approval_id=accounts.approval_id AND jobs.position=accounts.cursor AND ((jobs.status='retry' AND jobs.available_at>?) OR jobs.status IN ('sending','uncertain'))) ORDER BY next_due_at LIMIT 10").bind(now,now).all<Account>();
   for(const account of due.results) {
     if(await stopped(env)) break;
     if(account.token_expires_at<=now+60000) { await attention(env,account,'token_expired'); continue; }
@@ -57,7 +57,7 @@ export async function runScheduled(env: Environment, facts: Fact[], now=Date.now
     if(!sending) continue;
     try {
       const remoteId=await threads.publish(token,job.post_text);
-      const next=now+account.cadence_hours*3600000;
+      const next=Math.max(now,Date.now())+account.cadence_hours*3600000;
       await env.DB.batch([
         env.DB.prepare("UPDATE jobs SET status='sent',remote_id=? WHERE id=? AND status='sending'").bind(remoteId,job.id),
         env.DB.prepare("UPDATE accounts SET cursor=cursor+1,next_due_at=?,status=CASE WHEN status='active' AND cursor+1>=? THEN 'exhausted' ELSE status END WHERE id=? AND approval_id=? AND cursor=?").bind(next,entries.length,account.id,approval.id,account.cursor)

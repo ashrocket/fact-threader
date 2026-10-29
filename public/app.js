@@ -54,6 +54,6 @@ async function init(){
   try{const response=await fetch('/facts.json');if(!response.ok)throw Error();const data=await response.json();facts=data.facts;version=data.version;}catch{notice('The facts didn’t load. Reload the page or read them on GitHub.');}
   renderLibrary();renderQueue();
   // Static Cloudflare Pages preview deliberately has no OAuth backend.
-  try{const response=await fetch('/api/status',{headers:{Accept:'application/json'}});if(response.headers.get('content-type')?.includes('application/json')){const status=await response.json();if(status.mode==='connected'){$('#mode-label').textContent=status.publishingEnabled?'Threads sign-in is open. You still approve every schedule.':'You can connect Threads. Posting is paused.';$('#connect').disabled=false;$('#connect').textContent='Connect my Threads account';await loadAccount();}}}catch{/* Static preview remains usable offline from the API. */}
+  try{const response=await fetch('/api/status',{headers:{Accept:'application/json'}});if(response.headers.get('content-type')?.includes('application/json')){const status=await response.json();if(status.mode==='connected'){$('#mode-label').textContent=status.publishingEnabled?'Threads sign-in is open. You still approve every schedule.':'You can connect Threads. Posting is paused.';$('#connect').disabled=false;$('#connect').textContent='Connect my Threads account';}await loadAccount();}}catch{/* Static preview remains usable offline from the API. */}
 }
 init();
