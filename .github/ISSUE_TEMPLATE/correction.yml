@@ -1,0 +1,25 @@
+name: Correct a fact
+description: Report unsupported wording, missing context, or changed evidence.
+title: "Correction: "
+body:
+  - type: input
+    id: fact
+    attributes:
+      label: Fact ID
+      placeholder: ice-0001
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What needs correcting?
+      description: Describe the exact claim and the missing or contradictory context. Do not include private information.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Primary evidence
+      description: Link the source and cite its date and page or section.
+    validations:
+      required: true

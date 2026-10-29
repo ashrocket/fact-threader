@@ -1,0 +1,21 @@
+{
+  "name": "fact-threader",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22.18" },
+  "scripts": {
+    "dev": "wrangler dev",
+    "types": "wrangler types --env-interface CloudflareBindings",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test tests/*.test.ts",
+    "validate:facts": "node --experimental-strip-types scripts/validate-facts.ts",
+    "build": "npm run validate:facts && node --experimental-strip-types scripts/build-public.ts",
+    "check": "npm run typecheck && npm test && npm run build",
+    "dry-run": "wrangler deploy --dry-run",
+    "scan:secrets": "node scripts/scan-secrets.mjs",
+    "deploy:preview": "npm run build && wrangler pages deploy public --project-name fact-threader --branch main",
+    "db:local": "wrangler d1 migrations apply fact-threader --local"
+  },
+  "devDependencies": { "@types/node": "^22.0.0", "typescript": "5.9.3", "wrangler": "4.156.0", "miniflare": "5.20261023.3-beta" }
+}
